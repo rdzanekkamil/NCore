@@ -1,0 +1,12 @@
+/home/rydzyk/Dokumenty/Projects/vsRepo/NCore/NCore/bin/Debug/net6.0/NCore.deps.json
+/home/rydzyk/Dokumenty/Projects/vsRepo/NCore/NCore/bin/Debug/net6.0/NCore.dll
+/home/rydzyk/Dokumenty/Projects/vsRepo/NCore/NCore/bin/Debug/net6.0/NCore.pdb
+/home/rydzyk/Dokumenty/Projects/vsRepo/NCore/NCore/obj/Debug/net6.0/NCore.csproj.AssemblyReference.cache
+/home/rydzyk/Dokumenty/Projects/vsRepo/NCore/NCore/obj/Debug/net6.0/NCore.GeneratedMSBuildEditorConfig.editorconfig
+/home/rydzyk/Dokumenty/Projects/vsRepo/NCore/NCore/obj/Debug/net6.0/NCore.AssemblyInfoInputs.cache
+/home/rydzyk/Dokumenty/Projects/vsRepo/NCore/NCore/obj/Debug/net6.0/NCore.AssemblyInfo.cs
+/home/rydzyk/Dokumenty/Projects/vsRepo/NCore/NCore/obj/Debug/net6.0/NCore.csproj.CoreCompileInputs.cache
+/home/rydzyk/Dokumenty/Projects/vsRepo/NCore/NCore/obj/Debug/net6.0/NCore.dll
+/home/rydzyk/Dokumenty/Projects/vsRepo/NCore/NCore/obj/Debug/net6.0/refint/NCore.dll
+/home/rydzyk/Dokumenty/Projects/vsRepo/NCore/NCore/obj/Debug/net6.0/NCore.pdb
+/home/rydzyk/Dokumenty/Projects/vsRepo/NCore/NCore/obj/Debug/net6.0/ref/NCore.dll
